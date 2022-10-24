@@ -2,4 +2,4 @@
 2022 ai/sw online course in elice.io ---- sw course 
 
 for memo,
-to remember ...
+to remember what I learned
